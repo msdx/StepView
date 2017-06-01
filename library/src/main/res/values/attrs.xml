@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StepView">
+        <attr name="svCircleColor" format="color"/>
+        <attr name="svTextColor" format="color"/>
+        <attr name="svSelectedColor" format="color"/>
+        <attr name="svFillRadius" format="dimension"/>
+        <attr name="svStrokeWidth" format="dimension"/>
+        <attr name="svLineWidth" format="dimension"/>
+        <attr name="svTextSize" format="dimension"/>
+        <attr name="svDrawablePadding" format="dimension"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="StepView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="android:paddingTop">11dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="svCircleColor">#EEE</item>
+        <item name="svTextColor">#999</item>
+        <item name="svSelectedColor">#418AF9</item>
+        <item name="svFillRadius">11dp</item>
+        <item name="svStrokeWidth">3dp</item>
+        <item name="svLineWidth">4dp</item>
+        <item name="svTextSize">12sp</item>
+        <item name="svDrawablePadding">10dp</item>
+    </style>
+</resources>
